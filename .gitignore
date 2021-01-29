@@ -13,3 +13,10 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# compile file
+app
+# hot reload for bin
+bin/
+# tmp
+tmp/
